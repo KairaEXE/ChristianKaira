@@ -7,7 +7,7 @@ Trabalho na Sanasa como estagiário na area de Telecomunicações, porém, procu
 
 ##  Projetos principais
 - Python data pipeline: Um dos meus projetos mais especiais, pois a partir dele, que de fato comecei a desenvolver e aplicar minhas habilidades tecnicas na resolução de problemas reais. Surgiu através de uma oportunidade acadêmica e tive como objetivo alinhar o fluxo dos dados além de garantir um processo completo de analise. 
-- 
+
 ## 🛠️ Stack
 
 - Backend: Python, FastAPI  
